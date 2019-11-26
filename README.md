@@ -6,7 +6,7 @@ Overview
 * **Industry** : Health
 * **Project Title** : 중증질환 위험도 예측 모델 개발 및 위험도 수준별 맞춤 의료 서비스 제공으로 헬스케어 시장 선점
 * **Project Description** : 2016년 기준 건강검진 수검자의 기본정보(성, 연령대, 시도코드 등)와 검진내역(신장, 콜레스테롤, 혈색소 등) 데이터를 활용한 중증질환 발병 위험수준 예측 및 개선안 도출
-* **Author(s)** : 박규동, [공은비](https://github.com/barha-star), 김규리, 김송일, 박병수, [이수진](https://github.com/sooooojinlee)
+* **Author(s)** : 박규동, [공은비](https://github.com/barha-star), 김규리, [김송일](https://github.com/camelia13), [박병수](https://github.com/Hinterhalter), [이수진](https://github.com/sooooojinlee)
 * **Date** : 19/11/04 ~ 19/11/15  
 
 
